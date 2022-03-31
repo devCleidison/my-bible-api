@@ -8,4 +8,8 @@ app.get('/', (req, res) => {
   res.json(data);
 })
 
+app.get('/books', (req, res) => {
+  res.json(data.books);
+});
+
 app.listen(PORT, () => console.log(`Server is running on ${PORT}`));

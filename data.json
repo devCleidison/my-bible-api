@@ -241,6 +241,107 @@
           ]
         }
       ]
+    },
+    {
+      "title": "Êxodo",
+      "abbreviation": "Êx",
+      "category": "Pentateuco",
+      "section": "Antigo testamento",
+      "chapters": [
+        {
+          "number": 1,
+          "verses": [
+            {
+              "number": 1,
+              "text": "Eis os nomes dos filhos de Israel que vieram para o Egito com Jacó, cada um com sua família:"
+            },
+            {
+              "number": 2,
+              "text": "Rúben, Simeão, Levi, Judá,"
+            },
+            {
+              "number": 3,
+              "text": "Issacar, Zabulon, Benjamim,"
+            },
+            {
+              "number": 4,
+              "text": "Dã, Neftali, Gad e Aser."
+            },
+            {
+              "number": 5,
+              "text": "Todas as pessoas saídas de Jacó eram em número de setenta. José estava já no Egito."
+            },
+            {
+              "number": 6,
+              "text": "E, morto José, assim como todos os seus irmãos e toda aquela geração,"
+            },
+            {
+              "number": 7,
+              "text": "os israelitas foram fecundos e multiplicaram-se; tornaram-se tão numerosos e tão fortes, que a terra ficou repleta deles."
+            },
+            {
+              "number": 8,
+              "text": "Entretanto, subiu ao trono do Egito um novo rei, que não tinha conhecido José."
+            },
+            {
+              "number": 9,
+              "text": "Ele disse ao seu povo: “Vede: os israelitas tornaram-se numerosos e fortes demais para nós."
+            },
+            {
+              "number": 10,
+              "text": "Vamos! É preciso tomar precaução contra eles e impedir que se multipliquem, para não acontecer que, sobrevindo uma guerra, se unam com os nossos inimigos e combatam contra nós, e se retirem do país”."
+            },
+            {
+              "number": 11,
+              "text": "Estabeleceu, pois, sobre eles, feitores para acabrunhá-los com trabalhos penosos: eles construíram para o faraó as cidades de Pitom e Ramsés, que deviam servir de entreposto."
+            },
+            {
+              "number": 12,
+              "text": "Quanto mais os oprimiam, porém, tanto mais eles se multiplicavam e se espalhavam, a ponto de os egípcios os aborrecerem."
+            },
+            {
+              "number": 13,
+              "text": "Impunham-lhes a mais dura servidão,"
+            },
+            {
+              "number": 14,
+              "text": "e amarguravam-lhes a vida com duros trabalhos na argamassa e na fabricação de tijolos, bem como com toda a sorte de trabalhos nos campos e todas as tarefas que se lhes impunham tiranicamente."
+            },
+            {
+              "number": 15,
+              "text": "O rei do Egito dirigiu-se, igualmente, às parteiras dos hebreus (uma se chamava Sefra e a outra, Fua),"
+            },
+            {
+              "number": 16,
+              "text": "e disse-lhes: “Quando assistirdes às mulheres dos hebreus, e as virdes sobre o leito, se for um filho, matai-o; mas se for uma filha, deixai-a viver“."
+            },
+            {
+              "number": 17,
+              "text": "Mas as parteiras temiam a Deus, e não executaram as ordens do rei do Egito, deixando viver os meninos."
+            },
+            {
+              "number": 18,
+              "text": "O rei mandou-as chamar então e disse-lhes: “Por que agistes assim, e deixastes viver os meninos?“."
+            },
+            {
+              "number": 19,
+              "text": "“Porque – responderam elas ao faraó – as mulheres dos hebreus não são como as dos egípcios: elas são vigorosas, e já dão à luz antes que chegue a parteira.“"
+            },
+            {
+              "number": 20,
+              "text": "Deus beneficiou as parteiras: o povo continuou a multiplicar-se e a espalhar-se."
+            },
+            {
+              "number": 21,
+              "text": "Porque elas haviam temido a Deus, ele fez prosperar suas famílias."
+            },
+            {
+              "number": 22,
+              "text": "Então o faraó deu esta ordem a todo o seu povo: “Todo menino que nascer, vós o atirareis ao Nilo. Deixareis, porém, viver todas as meninas“."
+            }
+          ]
+        }
+      ]
     }
   ],
   "categories": [
