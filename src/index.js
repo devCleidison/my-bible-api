@@ -30,7 +30,12 @@ app.get('/books/:title/:chapterId', (req, res) => {
       res.json(response);
     }
   });
-  
+});
+
+
+
+app.get('/categories', (req, res) => {
+  res.json(data.categories);
 });
 
 app.listen(PORT, () => console.log(`Server is running on ${PORT}`));
