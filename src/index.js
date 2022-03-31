@@ -19,4 +19,18 @@ app.get('/books/:title', (req, res) => {
   res.json(response);
 });
 
+
+app.get('/books/:title/:chapterId', (req, res) => {
+  const title = req.params.title;
+  const chapterId = parseInt(req.params.chapterId);
+
+  data.books.find(book => {
+    if(book.title === title) {
+      const response = book.chapters.find(chapter => chapter.number === chapterId);
+      res.json(response);
+    }
+  });
+  
+});
+
 app.listen(PORT, () => console.log(`Server is running on ${PORT}`));
