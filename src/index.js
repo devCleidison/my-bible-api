@@ -38,4 +38,11 @@ app.get('/categories', (req, res) => {
   res.json(data.categories);
 });
 
+app.get('/categories/:category', (req, res) => {
+  const category = req.params.category;
+
+  const response = data.categories.filter(books => books.category === category);
+  res.json(response);
+});
+
 app.listen(PORT, () => console.log(`Server is running on ${PORT}`));
